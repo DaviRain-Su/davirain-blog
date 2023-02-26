@@ -5,7 +5,6 @@ specifiers:
   '@astrojs/mdx': ^0.11.0
   '@astrojs/sitemap': ^1.0.0
   '@astrojs/tailwind': ^1.0.0
-  '@jop-software/astro-matomo': ^1.1.0
   '@tailwindcss/aspect-ratio': ^0.4.0
   '@tailwindcss/line-clamp': ^0.4.0
   '@tailwindcss/typography': ^0.5.4
@@ -39,7 +38,6 @@ devDependencies:
   '@astrojs/mdx': 0.11.0
   '@astrojs/sitemap': 1.0.0
   '@astrojs/tailwind': 1.0.0
-  '@jop-software/astro-matomo': registry.npmmirror.com/@jop-software/astro-matomo/1.1.0
   '@tailwindcss/aspect-ratio': 0.4.0_tailwindcss@3.1.8
   '@tailwindcss/line-clamp': 0.4.0_tailwindcss@3.1.8
   '@tailwindcss/typography': 0.5.4_tailwindcss@3.1.8
@@ -5785,12 +5783,6 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
-
-  registry.npmmirror.com/@jop-software/astro-matomo/1.1.0:
-    resolution: {integrity: sha512-yke+4cGqtp7cN/iY0jiEkIRgU7TpmS7cKd9VPOrcoRo8p3pdXCumHfKvLCMNtqlQ3AYUn9GW+BRvoNQJUpMTaA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@jop-software/astro-matomo/-/astro-matomo-1.1.0.tgz}
-    name: '@jop-software/astro-matomo'
-    version: 1.1.0
-    dev: true
 
   registry.npmmirror.com/caniuse-lite/1.0.30001457:
     resolution: {integrity: sha512-SDIV6bgE1aVbK6XyxdURbUE89zY7+k1BBBaOwYwkNCglXlel/E7mELiHC64HQ+W0xSKlqWhV9Wh7iHxUjMs4fA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/caniuse-lite/-/caniuse-lite-1.0.30001457.tgz}
