@@ -72,7 +72,7 @@ Rust | Go | C | C++ | SQL
 
 ## 个⼈项⽬/⽂章
 
-- rebase Daily 日报使用Rust前后端实现展示
+- [rebase Daily 日报使用Rust前后端实现展示](https://all-in-one-news-frontend.vercel.app/)
     - [frontent](https://github.com/DaviRain-Su/all-in-one-news-frontend)
     - [backend](https://github.com/DaviRain-Su/all-in-one-news)
 - [phoenix Maket maker Bot实现](https://github.com/All-In-One-Blockchain/phoenix-onchain-mm)
